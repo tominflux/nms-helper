@@ -1,0 +1,7 @@
+{
+  "ip": "",
+  "protocol": "rtmp",
+  "appName": "live",
+  "shelfLife": 24,
+  "nmsPass": ""
+}
